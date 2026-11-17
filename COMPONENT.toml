@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-fscrypt"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-fscrypt component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
